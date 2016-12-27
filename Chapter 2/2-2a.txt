@@ -1,0 +1,1 @@
+We need to show that the loop invariant of the subarray being sorted holds true at initialization, maintainance, and termination.
