@@ -1,0 +1,4 @@
+Our loop invariant for lines 2-4 is describing that A[j-1...j] will always be sorted.
+Initialization: At initialization there are only 2 elements in the subarray A[j-1] and A[j] which get sorted.
+Maintainance:   The values are always exchanged.
+Termination:    Terminates when i is A.length and the array is now sorted
